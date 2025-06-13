@@ -1,8 +1,7 @@
-package Multithreading.Task1.Task5;
+package Multithreading.Task5;
 
 import java.util.Random;
 import java.util.concurrent.*;
-import java.util.stream.Stream;
 
 /*
 Написать программу, которая вычисляет сумму элементов большого массива, разделив работу между несколькими потоками.

@@ -1,6 +1,4 @@
-package Multithreading;
-
-import java.math.BigDecimal;
+package Multithreading.TransferMoney;
 
 public class DemoTransferMoney {
     public static void main(String[] args) {

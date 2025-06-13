@@ -1,4 +1,4 @@
-package Multithreading;
+package Multithreading.TransferMoney;
 
 import java.util.Objects;
 import java.util.concurrent.atomic.AtomicLong;

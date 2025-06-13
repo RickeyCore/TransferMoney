@@ -1,4 +1,4 @@
-package Multithreading;
+package Multithreading.TransferMoney;
 
 
 import java.math.BigDecimal;
